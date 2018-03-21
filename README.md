@@ -134,3 +134,10 @@ try {
 * Create attachment action:
     * ```$this->slackService->createAttachementAction($arguments);```
     * See Slack documentation: https://api.slack.com/docs/message-attachments
+
+## More resources
+
+* Slack - Messages: https://api.slack.com/docs/messages
+* Slack - Message attachments: https://api.slack.com/docs/message-attachments
+* Slack - Message guidelines: https://api.slack.com/best-practices/message-guidelines
+* Slack - Message builder: https://api.slack.com/docs/messages/builder
